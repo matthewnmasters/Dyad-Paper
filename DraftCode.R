@@ -1,9 +1,9 @@
 #Combining only the info we need for the draft Kassandra sent
 
 ###############################################################################################################################################################
-# The collaborators feel it is appropriate to move forward with Stavrova's approach using the robust SE method and then conducting a frailty model at the end #
-# We believe that the PH Assumption is satisfied by looking at two time points of 18 years. Look at the PH Assumption for each variable as we add it.         #
-# Investigate Discrete time here as well (pull in the test code I had earlier)                                                                                #
+# The collaborators feel it is appropriate to move forward with Stavrova's approach using the robust SE method after comparing it to frailty models           #
+# We believe that the PH Assumption is satisfied by looking at two time points of 18 years.                                                                   #
+# Decided not to look at discrete time or time-varying approaches                                                                                             #
 ###############################################################################################################################################################
 
 library(survival) #for survival analysis
